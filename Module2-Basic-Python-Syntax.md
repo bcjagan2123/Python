@@ -327,7 +327,7 @@ This is an important concept because it helps us control how data behaves in Pyt
 
 ## Quick Learning Summary: Expressions and Variables
 
-This study guide provides a quick-reference summary of what you learned in this lesson and serves as a guide for the upcoming practice quiz.
+This study guide provides a quick-reference summary of what you learned in this lesson and serves as a guide.
 
 In the Expressions and Variables segment, you learned about expressions, variables, and the main data types: strings, integers, and floats. You also learned how to convert values from one data type to another and how to fix common Python errors.
 
