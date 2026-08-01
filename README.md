@@ -12,12 +12,12 @@ This module introduces the foundations of programming, including basic concepts,
 ### Practice
 - [Module 1 Practice: Python Basics](Module1-Practice.py)
 
-## Module 2: Expressions, Variables, Functions, and Loops
+## Module 2: Expressions, Variables, Functions, and Conditionals
 
-This module covers expressions, variables, data types, type conversion, functions, and basic Python syntax concepts used in everyday programming.
+This module covers expressions, variables, data types, type conversion, functions, and foundational Python syntax concepts used in everyday programming.
 
 ### Lesson
 - [Module 2: Basic Python Syntax](Module2-Lesson.md)
-
+g
 ### Practice
 - [Module 2 Practice: Python Basics](Module2-Practice.py)
