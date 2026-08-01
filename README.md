@@ -7,17 +7,17 @@ Welcome to the Python learning course. Use the links below to navigate through e
 This module introduces the foundations of programming, including basic concepts, Python introduction, and simple coding examples.
 
 ### Lesson
-- [Module 1: Basics of Programming and Python](Module1-Basics-of-Programming-and-Python.md)
+- [Module 1: Basics of Programming and Python](Module1-Lesson.md)
 
 ### Practice
-- [Module 1 Practice: Python Basics](PythonBasicExamplesModule1.py)
+- [Module 1 Practice: Python Basics](Module1-Practice.py)
 
 ## Module 2: Expressions, Variables, Functions, and Loops
 
 This module covers expressions, variables, data types, type conversion, functions, and basic Python syntax concepts used in everyday programming.
 
 ### Lesson
-- [Module 2: Basic Python Syntax](Module2-Basic-Python-Syntax.md)
+- [Module 2: Basic Python Syntax](Module2-Lesson.md)
 
 ### Practice
-- [Module 2 Practice: Python Basics](PythonBasicSyntaxModule2.py)
+- [Module 2 Practice: Python Basics](Module2-Practice.py)
